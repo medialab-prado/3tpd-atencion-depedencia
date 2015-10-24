@@ -1,1 +1,5 @@
 # 3tpd-atencion-depedencia
+
+Es lo mismo ser dependiente en Madrid que en La Rioja? ¿Cuántos recursos destina cada comunidad autónoma a la atención a la dependencia? Queremos investigar la situación de las personas con dependencia en las comunidades de España: número de personas solicitantes, prestaciones y servicios disponibles, recursos económicos destinados a este concepto. Explorar el ecosistema que rodea a este colectivo, recoger y comparar la oferta pública y privada de centros de día, centros de salud mental, residencias para mayores, cuidadores, tele asistencia. 
+
+Aunque la administración general del estado reúne datos estadísticos básicos, se trata de una competencia descentralizada y para profundizar habría que trabajar con datos de las 17 comunidades autónomas. A través de esta información se podría analizar en qué situación de atención se encuentran las personas dependientes en cada comunidad, y si hay diferencias sustanciales en los niveles de atención disponibles en cada comunidad autónoma.
