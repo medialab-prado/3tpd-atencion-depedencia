@@ -1,0 +1,21 @@
+Ir copiando y pegando columnas según los campos descritos en la plantilla.
+
+Solicitudes, beneficiarios, dictámenes… por ccaa.
+
+Qué se saca de cada pestaña :
+
+pestaña 2. población y total de solicitudes
+
+pestaña 4. dictámenes y personas beneficiarias con derecho a prestación
+
+pestaña 6. todos los grados y sin grado.
+
+pestaña 7. número de personas beneficiarias con prestaciones y todas las prestaciones (omitir totales)
+
+pestaña 9. Total de prestaciones por servicio y prestaciones económicas para cuidados del entorno familiar.
+
+Perfiles de solicitantes y beneficiarios (nivel estatal)
+
+Qué se saca de cada pestaña:
+
+Pestañas 3 y 8. Sacar todas las cifras brutas por rangos de edad, omitir porcentajes. Incluir categorías (solicitante-beneficiario), ver plantilla.
